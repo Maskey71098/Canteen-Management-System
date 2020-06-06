@@ -1,0 +1,40 @@
+
+body{
+	margin: 0;
+	padding: 0;
+}ul#menu li {
+  display:inline;
+}
+#topBtn{
+	position: fixed;
+	bottom: 40px;
+	right: 40px;
+}
+.foodname{
+	font-size: 1.3rem;
+}
+.topper{
+	padding-top: 5.5rem;
+}
+.cardholder{
+	padding-top: 10px;
+	
+}
+.cardholder rowofcards{
+	
+}
+#totalsum{
+	padding-top: 1rem;
+}
+.card:hover{
+
+	-webkit-box-shadow:0px 9px 40px -12px rgba(0,0,0,0.75);
+	-moz-box-shadow:0px 9px 40px -12px rgba(0,0,0,0.75);
+	box-shadow:0px 9px 40px -12px rgba(0,0,0,0.75);
+}
+.old{
+	color:yellow;
+}
+.new{
+	color:red;
+}
